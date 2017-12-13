@@ -1,0 +1,10 @@
+moto
+boto3
+python-lambda-local
+pytest
+pytest-mock
+flake8==3.3.0
+flake8-builtins==0.2
+flake8-docstrings==1.1.0
+flake8-import-order==0.9
+flake8-quotes==0.8.1

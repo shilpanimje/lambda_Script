@@ -1,0 +1,4 @@
+-i https://pypi.theorchard.io/pypi/
+
+owsrequest==0.8.0
+requests==2.18.1
